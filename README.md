@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Historical project (2022).** 이 저장소는 GitHub 프로필 README가 아니라 과거 React 팀 프로젝트 **README**의 기록입니다.  
+> 현재 개발 포트폴리오와 대표 프로젝트는 [emotigom/portfolio](https://github.com/emotigom/portfolio)에서 확인할 수 있습니다.
+
 # 📖 책 취향 공유 서비스앱 README
 
 ![readme_mockup2](https://user-images.githubusercontent.com/112460466/210706312-6a44b60d-a42e-4210-b334-9e5983f70fb3.png)
